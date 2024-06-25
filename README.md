@@ -2,7 +2,7 @@
 
 Este projeto é um aplicativo de previsão do tempo que utiliza React, CSS, JavaScript e HTML. Ele consome informações da Weather API para fornecer dados meteorológicos atualizados. O projeto foi configurado utilizando Vite para um desenvolvimento mais rápido e eficiente.
 
-#Preview
+# Preview
 ![clima](https://github.com/ArthurZaffari/weather-app/assets/105326340/62e593bb-5123-4966-b20b-616190d85e3e)
 
 # Como executar
