@@ -8,6 +8,9 @@ Siga os passos abaixo para executar a aplicação localmente:
 
 1- Clone o repositório:
 
+#Preview
+![clima](https://github.com/ArthurZaffari/weather-app/assets/105326340/62e593bb-5123-4966-b20b-616190d85e3e)
+
 git clone https://github.com/ArthurZaffari/weather-app
 
 2-Navegue até o diretório do projeto:
