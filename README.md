@@ -1,4 +1,4 @@
-# Tempo
+# Weather APP
 
 Este projeto é um aplicativo de previsão do tempo que utiliza React, CSS, JavaScript e HTML. Ele consome informações da Weather API para fornecer dados meteorológicos atualizados. O projeto foi configurado utilizando Vite para um desenvolvimento mais rápido e eficiente.
 
