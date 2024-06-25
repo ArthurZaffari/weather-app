@@ -7,18 +7,23 @@ Este projeto é um aplicativo de previsão do tempo que utiliza React, CSS, Java
 Siga os passos abaixo para executar a aplicação localmente:
 
 1- Clone o repositório:
+
 git clone https://github.com/ArthurZaffari/weather-app
 
 2-Navegue até o diretório do projeto:
+
 cd weather-app
 
 3-Instale as depêndencias necessárias:
+
 npm install
 
 4-Inicie o servidor de desenvolvimento:
+
 npm run dev
 
 5-Abra o aplicativo no navegador:
+
 http://localhost:3000
 
 
